@@ -1,6 +1,6 @@
 # Crypto-Tools
 
-### A set of cryptographic tools and libraries
+### A set of crypto tools and libraries
 
 1. simple_crypto: One-time pad,Caesar's cipher,Vigenère’s cipher
 2. aes: Symmetric Encryption using the AES cryptographic algorithm in ECB mode.
